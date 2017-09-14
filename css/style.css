@@ -1,0 +1,61 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 63px;
+}
+@media (min-width: 992px) {
+    body {
+        padding-top: 66px;
+    }
+}
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.hide {
+    display: none;
+    opacity: 0;
+}
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+.navbar {
+    padding: 0.8rem 1rem;
+}
+.pull-right {
+    float: right;
+}
+.myMenu {
+    margin-right: 20px;
+    color: #343A40;
+}
+.myMenu:hover {
+    text-decoration: none;
+}
+.carousel-caption h3 {
+    font-size: 50px;
+    font-weight: 100;
+}
+.navbar-light {
+    background: #fff none repeat scroll 0 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.navbar-brand {
+    font-size: 23px;
+}
+.add-recipe header {
+    margin-top: -280px;
+}
